@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Git-alt2003/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/Git-alt2003/Leetcode/tree/master/0006-zigzag-conversion) |
 ## Sliding Window
 |  |
 | ------- |
