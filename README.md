@@ -22,6 +22,7 @@
 | [0002-add-two-numbers](https://github.com/Git-alt2003/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Git-alt2003/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Git-alt2003/Leetcode/tree/master/0009-palindrome-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Git-alt2003/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -51,4 +52,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Git-alt2003/Leetcode/tree/master/0011-container-with-most-water) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Git-alt2003/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
