@@ -43,6 +43,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Git-alt2003/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Git-alt2003/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Git-alt2003/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Git-alt2003/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Git-alt2003/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Sliding Window
 |  |
@@ -80,4 +81,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Git-alt2003/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Git-alt2003/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
