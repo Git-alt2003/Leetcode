@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Git-alt2003/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Git-alt2003/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Git-alt2003/Leetcode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/Git-alt2003/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Git-alt2003/Leetcode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Git-alt2003/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Git-alt2003/Leetcode/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,4 +101,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Git-alt2003/Leetcode/tree/master/0067-add-binary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Git-alt2003/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
