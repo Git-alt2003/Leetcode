@@ -56,6 +56,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Git-alt2003/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Git-alt2003/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Git-alt2003/Leetcode/tree/master/0067-add-binary) |
+| [0087-scramble-string](https://github.com/Git-alt2003/Leetcode/tree/master/0087-scramble-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Git-alt2003/Leetcode/tree/master/0053-maximum-subarray) |
+| [0087-scramble-string](https://github.com/Git-alt2003/Leetcode/tree/master/0087-scramble-string) |
 ## Sorting
 |  |
 | ------- |
