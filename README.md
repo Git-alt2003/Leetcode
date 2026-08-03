@@ -38,6 +38,7 @@
 | [0012-integer-to-roman](https://github.com/Git-alt2003/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Git-alt2003/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Git-alt2003/Leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Git-alt2003/Leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Git-alt2003/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Git-alt2003/Leetcode/tree/master/0067-add-binary) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Git-alt2003/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -57,6 +58,7 @@
 | [0014-longest-common-prefix](https://github.com/Git-alt2003/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Git-alt2003/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Git-alt2003/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/Git-alt2003/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Git-alt2003/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Git-alt2003/Leetcode/tree/master/0067-add-binary) |
 | [0087-scramble-string](https://github.com/Git-alt2003/Leetcode/tree/master/0087-scramble-string) |
@@ -113,6 +115,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Git-alt2003/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Git-alt2003/Leetcode/tree/master/0067-add-binary) |
 ## Dynamic Programming
 |  |
