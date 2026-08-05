@@ -15,6 +15,7 @@
 | [0035-search-insert-position](https://github.com/Git-alt2003/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Git-alt2003/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Git-alt2003/Leetcode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Git-alt2003/Leetcode/tree/master/0078-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/Git-alt2003/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Git-alt2003/Leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Git-alt2003/Leetcode/tree/master/0078-subsets) |
 ## Simulation
 |  |
 | ------- |
@@ -132,4 +134,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Git-alt2003/Leetcode/tree/master/0148-sort-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Git-alt2003/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
