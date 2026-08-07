@@ -142,4 +142,20 @@
 | ------- |
 | [0046-permutations](https://github.com/Git-alt2003/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Git-alt2003/Leetcode/tree/master/0078-subsets) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Git-alt2003/Leetcode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Git-alt2003/Leetcode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Git-alt2003/Leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Git-alt2003/Leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
