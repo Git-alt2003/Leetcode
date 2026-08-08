@@ -15,6 +15,7 @@
 | [0035-search-insert-position](https://github.com/Git-alt2003/Leetcode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Git-alt2003/Leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Git-alt2003/Leetcode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Git-alt2003/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Git-alt2003/Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Git-alt2003/Leetcode/tree/master/0078-subsets) |
 ## Hash Table
@@ -132,6 +133,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Git-alt2003/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Git-alt2003/Leetcode/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/Git-alt2003/Leetcode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Git-alt2003/Leetcode/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
@@ -158,4 +160,8 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Git-alt2003/Leetcode/tree/master/0100-same-tree) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Git-alt2003/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
