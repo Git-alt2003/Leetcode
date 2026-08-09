@@ -16,6 +16,7 @@
 | [0046-permutations](https://github.com/Git-alt2003/Leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Git-alt2003/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Git-alt2003/Leetcode/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/Git-alt2003/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Git-alt2003/Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Git-alt2003/Leetcode/tree/master/0078-subsets) |
 ## Hash Table
@@ -127,6 +128,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Git-alt2003/Leetcode/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/Git-alt2003/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0087-scramble-string](https://github.com/Git-alt2003/Leetcode/tree/master/0087-scramble-string) |
 ## Sorting
 |  |
@@ -164,4 +166,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Git-alt2003/Leetcode/tree/master/0056-merge-intervals) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/Git-alt2003/Leetcode/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
