@@ -46,6 +46,7 @@
 | [0050-powx-n](https://github.com/Git-alt2003/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Git-alt2003/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Git-alt2003/Leetcode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/Git-alt2003/Leetcode/tree/master/0089-gray-code) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Git-alt2003/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
@@ -119,6 +120,7 @@
 | [0029-divide-two-integers](https://github.com/Git-alt2003/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Git-alt2003/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Git-alt2003/Leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Git-alt2003/Leetcode/tree/master/0089-gray-code) |
 ## Simulation
 |  |
 | ------- |
@@ -146,6 +148,7 @@
 | ------- |
 | [0046-permutations](https://github.com/Git-alt2003/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Git-alt2003/Leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Git-alt2003/Leetcode/tree/master/0089-gray-code) |
 ## Tree
 |  |
 | ------- |
