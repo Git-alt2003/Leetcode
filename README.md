@@ -69,6 +69,7 @@
 | [0058-length-of-last-word](https://github.com/Git-alt2003/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Git-alt2003/Leetcode/tree/master/0067-add-binary) |
 | [0087-scramble-string](https://github.com/Git-alt2003/Leetcode/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/Git-alt2003/Leetcode/tree/master/0091-decode-ways) |
 ## Sliding Window
 |  |
 | ------- |
@@ -132,6 +133,7 @@
 | [0053-maximum-subarray](https://github.com/Git-alt2003/Leetcode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Git-alt2003/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0087-scramble-string](https://github.com/Git-alt2003/Leetcode/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/Git-alt2003/Leetcode/tree/master/0091-decode-ways) |
 ## Sorting
 |  |
 | ------- |
