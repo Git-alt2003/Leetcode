@@ -51,6 +51,7 @@
 | [0066-plus-one](https://github.com/Git-alt2003/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Git-alt2003/Leetcode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/Git-alt2003/Leetcode/tree/master/0089-gray-code) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Git-alt2003/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Git-alt2003/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
