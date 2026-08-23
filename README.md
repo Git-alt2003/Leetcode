@@ -51,6 +51,7 @@
 | [0066-plus-one](https://github.com/Git-alt2003/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Git-alt2003/Leetcode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/Git-alt2003/Leetcode/tree/master/0089-gray-code) |
+| [1927-sum-game](https://github.com/Git-alt2003/Leetcode/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Git-alt2003/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Git-alt2003/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
@@ -76,6 +77,7 @@
 | [0072-edit-distance](https://github.com/Git-alt2003/Leetcode/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/Git-alt2003/Leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Git-alt2003/Leetcode/tree/master/0091-decode-ways) |
+| [1927-sum-game](https://github.com/Git-alt2003/Leetcode/tree/master/1927-sum-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -105,6 +107,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Git-alt2003/Leetcode/tree/master/0011-container-with-most-water) |
+| [1927-sum-game](https://github.com/Git-alt2003/Leetcode/tree/master/1927-sum-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -191,4 +194,8 @@
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/Git-alt2003/Leetcode/tree/master/0197-rising-temperature) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Git-alt2003/Leetcode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
