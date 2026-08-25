@@ -23,6 +23,7 @@
 | [1872-stone-game-viii](https://github.com/Git-alt2003/Leetcode/tree/master/1872-stone-game-viii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Git-alt2003/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Git-alt2003/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Git-alt2003/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | [0012-integer-to-roman](https://github.com/Git-alt2003/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Git-alt2003/Leetcode/tree/master/0013-roman-to-integer) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Git-alt2003/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Git-alt2003/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
 |  |
 | ------- |
