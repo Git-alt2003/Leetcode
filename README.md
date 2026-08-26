@@ -82,10 +82,12 @@
 | [0087-scramble-string](https://github.com/Git-alt2003/Leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Git-alt2003/Leetcode/tree/master/0091-decode-ways) |
 | [1927-sum-game](https://github.com/Git-alt2003/Leetcode/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Git-alt2003/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Git-alt2003/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Git-alt2003/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Binary Search
 |  |
 | ------- |
