@@ -33,6 +33,7 @@
 | [0013-roman-to-integer](https://github.com/Git-alt2003/Leetcode/tree/master/0013-roman-to-integer) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Git-alt2003/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Git-alt2003/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Git-alt2003/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Linked List
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [0091-decode-ways](https://github.com/Git-alt2003/Leetcode/tree/master/0091-decode-ways) |
 | [1927-sum-game](https://github.com/Git-alt2003/Leetcode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Git-alt2003/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Git-alt2003/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -114,6 +116,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Git-alt2003/Leetcode/tree/master/0011-container-with-most-water) |
 | [1927-sum-game](https://github.com/Git-alt2003/Leetcode/tree/master/1927-sum-game) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Git-alt2003/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Number Theory
 |  |
 | ------- |
@@ -218,4 +221,12 @@
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/Git-alt2003/Leetcode/tree/master/1872-stone-game-viii) |
+## Counting
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Git-alt2003/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Git-alt2003/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
