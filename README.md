@@ -21,6 +21,7 @@
 | [0066-plus-one](https://github.com/Git-alt2003/Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Git-alt2003/Leetcode/tree/master/0078-subsets) |
 | [1872-stone-game-viii](https://github.com/Git-alt2003/Leetcode/tree/master/1872-stone-game-viii) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Git-alt2003/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Git-alt2003/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Git-alt2003/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Git-alt2003/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -162,6 +163,7 @@
 | [0016-3sum-closest](https://github.com/Git-alt2003/Leetcode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/Git-alt2003/Leetcode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Git-alt2003/Leetcode/tree/master/0148-sort-list) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Git-alt2003/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -229,4 +231,8 @@
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Git-alt2003/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Git-alt2003/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
