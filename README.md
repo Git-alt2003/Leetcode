@@ -90,6 +90,7 @@
 | [0072-edit-distance](https://github.com/Git-alt2003/Leetcode/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/Git-alt2003/Leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Git-alt2003/Leetcode/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/Git-alt2003/Leetcode/tree/master/0115-distinct-subsequences) |
 | [1927-sum-game](https://github.com/Git-alt2003/Leetcode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Git-alt2003/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Git-alt2003/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -163,6 +164,7 @@
 | [0072-edit-distance](https://github.com/Git-alt2003/Leetcode/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/Git-alt2003/Leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Git-alt2003/Leetcode/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/Git-alt2003/Leetcode/tree/master/0115-distinct-subsequences) |
 | [1872-stone-game-viii](https://github.com/Git-alt2003/Leetcode/tree/master/1872-stone-game-viii) |
 ## Sorting
 |  |
