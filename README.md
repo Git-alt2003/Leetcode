@@ -192,11 +192,13 @@
 | ------- |
 | [0100-same-tree](https://github.com/Git-alt2003/Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Git-alt2003/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Git-alt2003/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Git-alt2003/Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Git-alt2003/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Git-alt2003/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -206,6 +208,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/Git-alt2003/Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Git-alt2003/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Git-alt2003/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Quicksort
 |  |
 | ------- |
