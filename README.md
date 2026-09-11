@@ -25,6 +25,7 @@
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Git-alt2003/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Git-alt2003/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Git-alt2003/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Git-alt2003/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Git-alt2003/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Git-alt2003/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Git-alt2003/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -37,6 +38,7 @@
 | [0012-integer-to-roman](https://github.com/Git-alt2003/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Git-alt2003/Leetcode/tree/master/0013-roman-to-integer) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Git-alt2003/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Git-alt2003/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Git-alt2003/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Git-alt2003/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Linked List
@@ -75,6 +77,7 @@
 | [0002-add-two-numbers](https://github.com/Git-alt2003/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Git-alt2003/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Git-alt2003/Leetcode/tree/master/0050-powx-n) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Git-alt2003/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -246,6 +249,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Git-alt2003/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Git-alt2003/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Union-Find
 |  |
