@@ -99,6 +99,7 @@
 | [0091-decode-ways](https://github.com/Git-alt2003/Leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Git-alt2003/Leetcode/tree/master/0115-distinct-subsequences) |
 | [1927-sum-game](https://github.com/Git-alt2003/Leetcode/tree/master/1927-sum-game) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Git-alt2003/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Git-alt2003/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Git-alt2003/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
@@ -127,12 +128,14 @@
 | [0027-remove-element](https://github.com/Git-alt2003/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Git-alt2003/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0148-sort-list](https://github.com/Git-alt2003/Leetcode/tree/master/0148-sort-list) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Git-alt2003/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Git-alt2003/Leetcode/tree/master/0011-container-with-most-water) |
 | [1927-sum-game](https://github.com/Git-alt2003/Leetcode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Git-alt2003/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Git-alt2003/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Git-alt2003/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Number Theory
 |  |
@@ -173,6 +176,7 @@
 | [0091-decode-ways](https://github.com/Git-alt2003/Leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Git-alt2003/Leetcode/tree/master/0115-distinct-subsequences) |
 | [1872-stone-game-viii](https://github.com/Git-alt2003/Leetcode/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Git-alt2003/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
 |  |
 | ------- |
