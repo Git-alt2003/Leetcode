@@ -65,6 +65,7 @@
 | [0067-add-binary](https://github.com/Git-alt2003/Leetcode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/Git-alt2003/Leetcode/tree/master/0089-gray-code) |
 | [0836-rectangle-overlap](https://github.com/Git-alt2003/Leetcode/tree/master/0836-rectangle-overlap) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Git-alt2003/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Git-alt2003/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Git-alt2003/Leetcode/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Git-alt2003/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -175,6 +176,7 @@
 | [0087-scramble-string](https://github.com/Git-alt2003/Leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Git-alt2003/Leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Git-alt2003/Leetcode/tree/master/0115-distinct-subsequences) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Git-alt2003/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Git-alt2003/Leetcode/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Git-alt2003/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
@@ -243,6 +245,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Git-alt2003/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Git-alt2003/Leetcode/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/Git-alt2003/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Zero-Sum Game
@@ -266,4 +269,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Git-alt2003/Leetcode/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Git-alt2003/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
