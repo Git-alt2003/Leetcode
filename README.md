@@ -42,6 +42,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Git-alt2003/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Git-alt2003/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Git-alt2003/Leetcode/tree/master/0013-roman-to-integer) |
+| [1096-brace-expansion-ii](https://github.com/Git-alt2003/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Git-alt2003/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Git-alt2003/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Git-alt2003/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -109,6 +110,7 @@
 | [0087-scramble-string](https://github.com/Git-alt2003/Leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Git-alt2003/Leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Git-alt2003/Leetcode/tree/master/0115-distinct-subsequences) |
+| [1096-brace-expansion-ii](https://github.com/Git-alt2003/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Git-alt2003/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Git-alt2003/Leetcode/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Git-alt2003/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -171,6 +173,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Git-alt2003/Leetcode/tree/master/0020-valid-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/Git-alt2003/Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -206,6 +209,7 @@
 | [0016-3sum-closest](https://github.com/Git-alt2003/Leetcode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/Git-alt2003/Leetcode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Git-alt2003/Leetcode/tree/master/0148-sort-list) |
+| [1096-brace-expansion-ii](https://github.com/Git-alt2003/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Git-alt2003/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Git-alt2003/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Merge Sort
@@ -219,6 +223,7 @@
 | [0046-permutations](https://github.com/Git-alt2003/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Git-alt2003/Leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Git-alt2003/Leetcode/tree/master/0089-gray-code) |
+| [1096-brace-expansion-ii](https://github.com/Git-alt2003/Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Tree
 |  |
 | ------- |
@@ -235,6 +240,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Git-alt2003/Leetcode/tree/master/0100-same-tree) |
+| [1096-brace-expansion-ii](https://github.com/Git-alt2003/Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Binary Tree
 |  |
 | ------- |
