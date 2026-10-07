@@ -117,6 +117,7 @@
 | [0087-scramble-string](https://github.com/Git-alt2003/Leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Git-alt2003/Leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Git-alt2003/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/Git-alt2003/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Git-alt2003/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Git-alt2003/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Git-alt2003/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -251,6 +252,7 @@
 | [0046-permutations](https://github.com/Git-alt2003/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Git-alt2003/Leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Git-alt2003/Leetcode/tree/master/0089-gray-code) |
+| [0301-remove-invalid-parentheses](https://github.com/Git-alt2003/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Git-alt2003/Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Tree
 |  |
@@ -268,6 +270,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Git-alt2003/Leetcode/tree/master/0100-same-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Git-alt2003/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Git-alt2003/Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Binary Tree
 |  |
