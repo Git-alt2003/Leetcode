@@ -20,6 +20,7 @@
 | [0064-minimum-path-sum](https://github.com/Git-alt2003/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Git-alt2003/Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Git-alt2003/Leetcode/tree/master/0078-subsets) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Git-alt2003/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0835-image-overlap](https://github.com/Git-alt2003/Leetcode/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Git-alt2003/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Git-alt2003/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -97,6 +98,7 @@
 | [0066-plus-one](https://github.com/Git-alt2003/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Git-alt2003/Leetcode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/Git-alt2003/Leetcode/tree/master/0089-gray-code) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Git-alt2003/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/Git-alt2003/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Git-alt2003/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Git-alt2003/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
